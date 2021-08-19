@@ -3,7 +3,7 @@
 Getting started with Flask, SQL Alchemy
 
 
-To run:
+Run:
 
 ```
 pipenv shell
